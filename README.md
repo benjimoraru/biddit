@@ -1,2 +1,2 @@
 # biddit
-testing signal for priva bidding app
+testing signal for private bidding app
